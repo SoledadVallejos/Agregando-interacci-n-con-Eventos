@@ -11,7 +11,9 @@
 
 ## Descripción y contexto
 ---
-Se continua con la practica y aprendiendo nuevos trucos con JavaScript. En este proyecto se incorpora interacción a nuestro sitio Digital Movies,
+Se continua con la practica y aprendiendo nuevos trucos con JavaScript. 
+
+En este proyecto se incorpora interacción a nuestro sitio Digital Movies,
 haciendo uso de los eventos del mouse y del teclado. 
 
 ## Instalación 🔧
